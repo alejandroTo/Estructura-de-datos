@@ -1,0 +1,2 @@
+Cadena original[1, 2, 3, 2, 7, 7, 9, 2, 1]
+Cadena RemovePairs[1, 2, 7, 7]
